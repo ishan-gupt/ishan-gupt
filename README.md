@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/ishangupta-2001/" target="_blank"><img align="left" alt="Ishan | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://www.instagram.com/ishan.gupt/" target="_blank"><img align="left" alt="Ishan  | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://twitter.com/ishan_gupt" target="_blank"><img align="left" alt="Ishan | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
-<a href="https://twitter.com/ishan_gupt" target="_blank"><img align="left" alt="Ishan | Telegram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnst6QhjZd1FtMOxr2BUYMQGIxFCGwpozDSA&usqp=CAU" /></a>
 
 
 <br />
@@ -12,7 +11,7 @@
 <p>
 - 🔭 I’m currently working on Harmony OS Library Development<br />
 - 🌱 I’m currently learning Data Structures in java<br />
-- 📫 How to reach me: gupta.ishan@hotmail.com<br />
+- 📫 How to reach me: gupta.ishan@hotmail.com/<a href="https://t.me/Ishan_gupta">Telegram"</a><br />
 - ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD<br />
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ishan-gupt&label=Profile%20views&color=blueviolet&style=flat" alt="Ishan" /></p>
