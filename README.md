@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/ishangupta-2001/" target="_blank"><img align="left" alt="Ishan | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="https://www.instagram.com/ishan.gupt/" target="_blank"><img align="left" alt="Ishan  | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://twitter.com/ishan_gupt" target="_blank"><img align="left" alt="Ishan | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
-<a href="https://twitter.com/ishan_gupt" target="_blank"><img align="left" alt="Ishan | Twitter" width="22px" src="https://gist.github.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1#file-telegram-single-path-24px-svg" /></a>
+<a href="https://twitter.com/ishan_gupt" target="_blank"><img align="left" alt="Ishan | Telegram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnst6QhjZd1FtMOxr2BUYMQGIxFCGwpozDSA&usqp=CAU" /></a>
 
 
 <br />
