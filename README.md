@@ -10,21 +10,39 @@
 <br />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ishan-gupt&label=Profile%20views&color=blueviolet&style=flat" alt="Ishan" /></p>
-  
+
+## 🛠️ My Workstation
+
+<p>
+<a href="#"><img alt="Processor" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+<a href="#"><img alt="Graphics" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
+<a href="#"><img alt="PC" src="https://img.shields.io/badge/Windows-ACER-PREDATOR-300-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+
+
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Languages I Can Code
+### 👨‍💻 Languages I can Code
 
   <p>
-    <a href="https://github.com/search?q=user%3ishan-gupt+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>    
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a></p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-R%20language-blue"></a></p>
+    <a href="https://github.com/search?q=user%3Aishan-gupt+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>    
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a></p>
     
+
+### 👨‍💻 Frameworks I can Use
+
+<p>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Acss"><img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    </p>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+    </p>
+    
+
   
 ### 🗄️ Databases I have worked with
 
@@ -35,6 +53,8 @@
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="MicrosoftSQL" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+    
 </p>
   
 ### 💻 Software and tools
@@ -57,8 +77,8 @@
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=neon-palenight&hide_border=true"/>
+  <a href="https://github.com/Ishan-gupt/github-readme-streak-stats">
+    <img title="🔥" alt="Ishan-gupt's streak" src="http://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=neon-palenight&hide_border=true"/>
   </a>
 </p>
   
@@ -72,11 +92,11 @@
 ## 📊 Github stats
 <p>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="R's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="R's Github Stats" src="https://Ishan-gupt-github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   </p>
   
   ---
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishan-gupt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ishan-gupt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishan-gupt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <!--
 **ishan-gupt/ishan-gupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
