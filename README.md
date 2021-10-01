@@ -8,7 +8,12 @@
 
 <br />
 <br />
-
+<p>
+- 🔭 I’m currently working on Harmony OS Library Development 
+- 🌱 I’m currently learning Data Structures in java
+- 📫 How to reach me: gupta.ishan@hotmail.com
+- ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD
+</p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ishan-gupt&label=Profile%20views&color=blueviolet&style=flat" alt="Ishan" /></p>
 
 ## 🛠️ My Workstation
@@ -59,12 +64,12 @@
 <p>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="DevEco Studio" src="https://img.shields.io/badge/Dev%20Eco-4A94FF.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"></a>
     <a href="#"><img alt="IntelloJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
      <a href="#"><img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
        <a href="#"><img alt="Prezi" src="https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white"></a>
