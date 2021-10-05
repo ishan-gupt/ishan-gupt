@@ -90,16 +90,7 @@
 
 </p>
 ---
-  
-## 🔥 Streak stats
 
-<p align="center">
-  <a href="https://github.com/Ishan-gupt/github-readme-streak-stats">
-    <img title="🔥" alt="Ishan-gupt's streak" src="http://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=neon-palenight&hide_border=true"/>
-  </a>
-</p>
-  
- ---
   
 ## 🔧 Top Languages 
 
