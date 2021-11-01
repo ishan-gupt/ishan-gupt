@@ -31,7 +31,7 @@
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>    
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a></p>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a></p>
 
 ### 👨‍💻 Frameworks I can Use
