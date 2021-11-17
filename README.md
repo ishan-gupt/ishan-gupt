@@ -10,8 +10,9 @@
 - 🔭 I’m currently working on Harmony OS Library Development<br />
 - 🌱 I’m currently learning Data Structures in java and Docker<br />
 - 📫 How to reach me: gupta.ishan@hotmail.com/<a href="https://t.me/Ishan_gupta">Telegram</a><br />
-- ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD<br />
 - 📃 Want to Hire Me? <a href="https://drive.google.com/file/d/17IE_Hc2XCG9LYHW3A-tZECuAtgeJUWPb/view?usp=sharing">Resume</a><br>
+- ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD<br />
+
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ishan-gupt&label=Profile%20views&color=blueviolet&style=flat" alt="Ishan" /></p>
 
