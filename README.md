@@ -115,7 +115,7 @@
 
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070)](https://github.com/anuraghazra/ithub-readme-stats)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ishan-gupt's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishan-gupt&theme=xcode" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ishan-gupt's Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=ishan-gupt&theme=xcode" /></a>
 
 <!--
 **ishan-gupt/ishan-gupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
