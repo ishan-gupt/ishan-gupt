@@ -103,7 +103,7 @@
 
 <p align="center">
   <a href="https://github.com/ishan-gupt">
-    <img title="🔥" alt="Ishan streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&ring=DB7063&fire=FF8273&currStreakNum=DB7063&sideNums=DB7063&sideLabels=FFFFFF&currStreakLabel=DDDDDD&dates=DB7063"/>
+    <img title="🔥" alt="Ishan streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=202124&ring=DB7063&fire=FF8273&currStreakNum=DB7063&sideNums=DB7063&sideLabels=FFFFFF&currStreakLabel=DDDDDD&dates=DB7063"/>
   </a>
 </p>
 
