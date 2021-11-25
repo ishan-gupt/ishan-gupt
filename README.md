@@ -88,7 +88,7 @@
 ### 🤝 Connect with me
 
 <p>
-    <a href="https://www.instagram.com/ishan.gupt/"><img alt="Ishan | Instagram" src="https://img.shields.io/badge/ishan-gupt-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/ishan.gupt/"><img alt="Ishan | Instagram" src="https://img.shields.io/badge/ishan.gupt-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/ishangupta-2001/"><img alt="Ishan | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:gupta.ishan@hotmail.com"><img alt="Ishan | Hotmail" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://t.me/ishan_gupta"><img alt="Ishan | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
@@ -103,7 +103,7 @@
 
 <p align="center">
   <a href="https://github.com/ishan-gupt">
-    <img title="🔥" alt="Ishan streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=xcode&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img title="🔥" alt="Ishan streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&ring=DB7063&fire=FF8273&currStreakNum=DB7063&sideNums=DB7063&sideLabels=FFFFFF&currStreakLabel=DDDDDD&dates=DB7063"/>
   </a>
 </p>
 
