@@ -92,7 +92,7 @@
     <a href="https://www.linkedin.com/in/ishangupta-2001/"><img alt="Ishan | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:gupta.ishan@hotmail.com"><img alt="Ishan | Hotmail" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://t.me/ishan_gupta"><img alt="Ishan | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://twitter.com/ishan_gupt"><img alt="Ishan | Twitter" src="https://img.shields.io/badge/ishan-gupt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://twitter.com/ishan_gupt"><img alt="Ishan | Twitter" src="https://img.shields.io/badge/ishan_gupt-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  <a href="https://discord.com/users/Ishan.gupta#6880"><img alt="Ishan | Discord" src="https://img.shields.io/badge/Ishan%236158-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
  
 </p>
