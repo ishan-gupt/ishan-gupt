@@ -111,7 +111,7 @@
 
 <p align="center">
   <a href="https://github.com/ishan-gupt">
-  <img title="🔥" alt="Ishan top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-gupt&bg_color=#0D1117&layout=compact"/>
+  <img title="🔥" alt="Ishan top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-gupt&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
   </a>
 </p>
 
@@ -119,9 +119,9 @@
 
 <p align="center">
   <a href="https://github.com/ishan-gupt">
-  <img title="🔥" alt="Ishan top Languages" src="https://github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
+  <img title="🔥" alt="Ishan Github stats" src="https://github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
   <br>
-  <img title="🔥" alt="Ishan top Languages" src="https://readmeactivity.herokuapp.com/graph?username=ishan-gupt&theme=xcode"/>
+  <img title="🔥" alt="Ishan Github Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=ishan-gupt&theme=xcode"/>
   </a>
 </p>
 
