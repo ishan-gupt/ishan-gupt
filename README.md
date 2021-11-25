@@ -103,19 +103,27 @@
 
 <p align="center">
   <a href="https://github.com/ishan-gupt">
-    <img title="🔥" alt="Ishan" src="https://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img title="🔥" alt="Ishan streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=xcode&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
 
 ## 🔧 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-gupt&bg_color=#0D1117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/ishan-gupt">
+  <img title="🔥" alt="Ishan top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-gupt&bg_color=#0D1117&layout=compact"/>
+  </a>
+</p>
 
 ## 📊 Github stats
 
-[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070)](https://github.com/anuraghazra/ithub-readme-stats)
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ishan-gupt's Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=ishan-gupt&theme=xcode" /></a>
+<p align="center">
+  <a href="https://github.com/ishan-gupt">
+  <img title="🔥" alt="Ishan top Languages" src="https://github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
+  <br>
+  <img title="🔥" alt="Ishan top Languages" src="https://readmeactivity.herokuapp.com/graph?username=ishan-gupt&theme=xcode"/>
+  </a>
+</p>
 
 <!--
 **ishan-gupt/ishan-gupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
