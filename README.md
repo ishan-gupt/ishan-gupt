@@ -85,8 +85,6 @@
 <a href="#"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
 <a href="#"><img alt="OpenSUSE" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white"></a>
 
-## </p>
----
 ### 🤝 Connect with me
 
 <p>
@@ -98,7 +96,9 @@
  <a href="https://discord.com/users/Ishan.gupta#6880"><img alt="Ishan | Discord" src="https://img.shields.io/badge/Ishan%236158-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
  
 </p>
----
+
+## </p>
+
 ## 🔥 Streak stats
 
 <p align="center">
@@ -106,17 +106,12 @@
     <img title="🔥" alt="Ishan" src="https://github-readme-streak-stats.herokuapp.com?user=ishan-gupt&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
----
 
 ## 🔧 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan-gupt&bg_color=#0D1117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ## 📊 Github stats
-
----
 
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-gupt&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070)](https://github.com/anuraghazra/ithub-readme-stats)
 
