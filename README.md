@@ -8,8 +8,7 @@
 <br />
 <p>
 - 🔭 I’m currently working on Harmony OS Library Development<br />
-- 🌱 My current learning stack includes DSA, CP, Flutter, and Docker.</br>
-     PS: I am not doing this simultaneously, It's just my life is revolving around these things nowadays.<br />
+- 🌱 My world these days is revolving around DSA, CP, Flutter, and Docker.</br>    
 - 📫 How to reach me: gupta.ishan@hotmail.com/<a href="https://t.me/Ishan_gupta">Telegram</a><br />
 - 📃 Want to Hire Me? <a href="https://drive.google.com/file/d/17IE_Hc2XCG9LYHW3A-tZECuAtgeJUWPb/view?usp=sharing">Resume</a><br>
 - ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD<br />
