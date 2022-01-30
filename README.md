@@ -1,3 +1,4 @@
+![alt text](https://github.com/ishan-gupt/ishan-gupt/blob/main/images/banner.png)
 ## Hey, I'm Ishan!
 
 <a href="https://www.linkedin.com/in/ishangupta-2001/" target="_blank"><img align="left" alt="Ishan | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
@@ -33,14 +34,13 @@
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>    
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a></p>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a></p>
 
 ### 👨‍💻 Frameworks I can Use
 
 <p>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Acss"><img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
     </p>
