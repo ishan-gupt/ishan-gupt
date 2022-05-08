@@ -9,7 +9,7 @@
 <br />
 <p>
 - 🔭 I’m currently working on Self-Development<br />
-- 🌱 My world these days is revolving around DSA, CP and Flutter.</br>    
+- 🌱 My world these days is revolving around DSA, CP and SpringBoot Backend Development.</br>    
 - 📫 How to reach me: gupta.ishan@hotmail.com/<a href="https://t.me/Ishan_gupta">Telegram</a><br />
 - 📃 Want to Hire Me? <a href="https://drive.google.com/file/d/1b79-0iXGb14rDC3C4doa6xYgsUQaHqGr/view?usp=sharing">Resume</a><br>
 - ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD<br />
@@ -35,11 +35,14 @@
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a></p>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a></p>
 
-### 👨‍💻 Frameworks I can Use
+### 👨‍💻 Frameworks and Libraries That I Use
 
 <p>
+  <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajava"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Acss"><img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AIshan-gupt+is%3Arepo+language%3Ajavascript"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
