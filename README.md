@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on Self-Development<br />
 - 🌱 My world these days is revolving around DSA, CP and SpringBoot.</br>    
 - 📫 How to reach me: gupta.ishan@hotmail.com/<a href="https://t.me/Ishan_gupta">Telegram</a><br />
-- 📃 Want to Hire Me? <a href="https://drive.google.com/file/d/1b79-0iXGb14rDC3C4doa6xYgsUQaHqGr/view?usp=sharing">Resume</a><br>
+- 📃 Want to Hire Me? <a https://drive.google.com/file/d/13JFcg3Lj6ew7ptTZRNh1_ncdCPOhlwDG/view?usp=sharing">Resume</a><br>
 - ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD<br />
 
 </p>
