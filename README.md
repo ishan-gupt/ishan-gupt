@@ -9,7 +9,7 @@
 <br />
 <p>
 - 🔭 I’m currently working on Self-Development<br />
-- 🌱 My world these days is revolving around MERN Stack.</br>    
+- 🌱 My world these days is revolving around My final year project.</br>    
 - 📫 How to reach me: gupta.ishan@hotmail.com/<a href="https://t.me/Ishan_gupta">Telegram</a><br />
 - 📃 Want to Hire Me? <a href="https://drive.google.com/file/d/1tHBzMr9aJG50nD8-aeKByyz8V9mHMXs0/view?usp=sharing">Resume</a><br>
 - ⚡ Fun fact: If I dont reply you within 12hrs I am DED xD<br />
